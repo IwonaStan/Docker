@@ -1,0 +1,451 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1658667777441,2295,HTTP Request,200,OK,Thread Group 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516370,224,5,5,https://www.wp.pl/,183,0,131
+1658667777441,205,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,348,112,5,5,http://www.wp.pl/,183,0,131
+1658667777649,2087,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,516022,112,5,5,https://www.wp.pl/,954,0,785
+1658667777457,2270,HTTP Request,200,OK,Thread Group 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516492,224,5,5,https://www.wp.pl/,177,0,119
+1658667777457,187,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,348,112,5,5,http://www.wp.pl/,177,0,119
+1658667777652,2075,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,516144,112,5,5,https://www.wp.pl/,956,0,778
+1658667777441,2840,HTTP Request,200,OK,Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516510,224,5,5,https://www.wp.pl/,177,0,121
+1658667777441,214,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,348,112,5,5,http://www.wp.pl/,177,0,121
+1658667777663,2618,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,516162,112,5,5,https://www.wp.pl/,1094,0,793
+1658667777661,2863,HTTP Request,200,OK,Thread Group 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516591,224,5,5,https://www.wp.pl/,105,0,58
+1658667777661,105,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,348,112,5,5,http://www.wp.pl/,105,0,58
+1658667777767,2757,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,516243,112,5,5,https://www.wp.pl/,914,0,670
+1658667777439,3317,HTTP Request,200,OK,Thread Group 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516209,224,5,5,https://www.wp.pl/,181,0,133
+1658667777439,207,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,348,112,5,5,http://www.wp.pl/,181,0,133
+1658667777651,3105,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,515861,112,5,5,https://www.wp.pl/,1390,0,801
+1658667779741,1150,HTTP Request,200,OK,Thread Group 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516493,224,5,5,https://www.wp.pl/,65,0,0
+1658667779741,65,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,348,112,5,5,http://www.wp.pl/,65,0,0
+1658667779807,1084,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,516145,112,5,5,https://www.wp.pl/,466,0,0
+1658667779758,1143,HTTP Request,200,OK,Thread Group 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516993,224,5,5,https://www.wp.pl/,46,0,0
+1658667779758,46,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,348,112,5,5,http://www.wp.pl/,46,0,0
+1658667779804,1097,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,516645,112,5,5,https://www.wp.pl/,359,0,0
+1658667780294,768,HTTP Request,200,OK,Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516500,224,5,5,https://www.wp.pl/,151,0,0
+1658667780294,154,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,348,112,5,5,http://www.wp.pl/,151,0,0
+1658667780448,614,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,516152,112,5,5,https://www.wp.pl/,357,0,0
+1658667781063,767,HTTP Request,200,OK,Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516785,224,5,5,https://www.wp.pl/,106,0,0
+1658667781063,106,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,348,112,5,5,http://www.wp.pl/,106,0,0
+1658667781169,661,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,516437,112,5,5,https://www.wp.pl/,175,0,0
+1658667780903,1020,HTTP Request,200,OK,Thread Group 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516518,224,5,5,https://www.wp.pl/,54,0,0
+1658667780903,54,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,348,112,5,5,http://www.wp.pl/,54,0,0
+1658667780958,965,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,516170,112,5,5,https://www.wp.pl/,222,0,0
+1658667780894,1065,HTTP Request,200,OK,Thread Group 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516752,224,5,5,https://www.wp.pl/,51,0,0
+1658667780894,51,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,348,112,5,5,http://www.wp.pl/,51,0,0
+1658667780946,1013,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,516404,112,5,5,https://www.wp.pl/,227,0,0
+1658667780760,1295,HTTP Request,200,OK,Thread Group 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516629,224,5,5,https://www.wp.pl/,136,0,0
+1658667780760,136,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,348,112,5,5,http://www.wp.pl/,136,0,0
+1658667780896,1159,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,516281,112,5,5,https://www.wp.pl/,190,0,0
+1658667780524,1551,HTTP Request,200,OK,Thread Group 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516428,224,5,5,https://www.wp.pl/,299,0,0
+1658667780524,299,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,348,112,5,5,http://www.wp.pl/,299,0,0
+1658667780824,1251,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,516080,112,5,5,https://www.wp.pl/,174,0,0
+1658667781831,2047,HTTP Request,200,OK,Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516875,224,5,5,https://www.wp.pl/,133,0,0
+1658667781831,133,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,348,112,5,5,http://www.wp.pl/,133,0,0
+1658667781965,1913,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,516527,112,5,5,https://www.wp.pl/,167,0,0
+1658667781929,2242,HTTP Request,200,OK,Thread Group 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516596,224,5,5,https://www.wp.pl/,65,0,0
+1658667781929,65,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,348,112,5,5,http://www.wp.pl/,65,0,0
+1658667781995,2176,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,516248,112,5,5,https://www.wp.pl/,214,0,0
+1658667781961,2334,HTTP Request,200,OK,Thread Group 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516511,224,5,5,https://www.wp.pl/,46,0,0
+1658667781961,46,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,348,112,5,5,http://www.wp.pl/,46,0,0
+1658667782007,2288,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,516163,112,5,5,https://www.wp.pl/,248,0,0
+1658667782075,2318,HTTP Request,200,OK,Thread Group 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516627,224,5,5,https://www.wp.pl/,61,0,0
+1658667782075,61,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,348,112,5,5,http://www.wp.pl/,61,0,0
+1658667782137,2256,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,516279,112,5,5,https://www.wp.pl/,1216,0,0
+1658667783880,698,HTTP Request,200,OK,Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516491,224,5,5,https://www.wp.pl/,155,0,0
+1658667783880,155,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,348,112,5,5,http://www.wp.pl/,155,0,0
+1658667784035,543,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,516143,112,5,5,https://www.wp.pl/,284,0,0
+1658667784172,880,HTTP Request,200,OK,Thread Group 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516551,224,5,5,https://www.wp.pl/,49,0,0
+1658667784172,50,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,348,112,5,5,http://www.wp.pl/,49,0,0
+1658667784222,830,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,516203,112,5,5,https://www.wp.pl/,227,0,0
+1658667784295,875,HTTP Request,200,OK,Thread Group 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516821,224,5,5,https://www.wp.pl/,69,0,0
+1658667784295,70,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,348,112,5,5,http://www.wp.pl/,69,0,0
+1658667784365,805,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,516473,112,5,5,https://www.wp.pl/,211,0,0
+1658667784394,799,HTTP Request,200,OK,Thread Group 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516750,224,5,5,https://www.wp.pl/,84,0,0
+1658667784394,84,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,348,112,5,5,http://www.wp.pl/,84,0,0
+1658667784478,715,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,516402,112,5,5,https://www.wp.pl/,183,0,0
+1658667784586,717,HTTP Request,200,OK,Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516708,224,5,5,https://www.wp.pl/,87,0,0
+1658667784586,87,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,348,112,5,5,http://www.wp.pl/,87,0,0
+1658667784674,629,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,516360,112,5,5,https://www.wp.pl/,277,0,0
+1658667782056,3831,HTTP Request,200,OK,Thread Group 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516725,224,5,5,https://www.wp.pl/,50,0,0
+1658667782056,50,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,348,112,5,5,http://www.wp.pl/,50,0,0
+1658667782106,3781,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,516377,112,5,5,https://www.wp.pl/,1288,0,0
+1658667785193,861,HTTP Request,200,OK,Thread Group 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516756,224,5,5,https://www.wp.pl/,103,0,0
+1658667785193,103,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,348,112,5,5,http://www.wp.pl/,103,0,0
+1658667785297,757,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,516408,112,5,5,https://www.wp.pl/,131,0,0
+1658667785305,763,HTTP Request,200,OK,Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516650,224,5,5,https://www.wp.pl/,140,0,0
+1658667785305,140,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,348,112,5,5,http://www.wp.pl/,140,0,0
+1658667785455,613,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,516302,112,5,5,https://www.wp.pl/,195,0,0
+1658667785062,1048,HTTP Request,200,OK,Thread Group 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516607,224,5,5,https://www.wp.pl/,189,0,0
+1658667785062,189,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,348,112,5,5,http://www.wp.pl/,189,0,0
+1658667785251,859,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,516259,112,5,5,https://www.wp.pl/,191,0,0
+1658667785171,946,HTTP Request,200,OK,Thread Group 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516569,224,5,5,https://www.wp.pl/,128,0,0
+1658667785171,128,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,348,112,5,5,http://www.wp.pl/,128,0,0
+1658667785299,818,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,516221,112,5,5,https://www.wp.pl/,177,0,0
+1658667786055,1202,HTTP Request,200,OK,Thread Group 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516642,224,5,5,https://www.wp.pl/,60,0,0
+1658667786055,60,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,348,112,5,5,http://www.wp.pl/,60,0,0
+1658667786115,1142,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,516294,112,5,5,https://www.wp.pl/,140,0,0
+1658667786077,1205,HTTP Request,200,OK,Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516578,224,5,5,https://www.wp.pl/,58,0,0
+1658667786077,58,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,348,112,5,5,http://www.wp.pl/,58,0,0
+1658667786136,1146,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,516230,112,5,5,https://www.wp.pl/,213,0,0
+1658667786117,1313,HTTP Request,200,OK,Thread Group 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516591,224,5,5,https://www.wp.pl/,43,0,0
+1658667786117,43,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,348,112,5,5,http://www.wp.pl/,43,0,0
+1658667786161,1269,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,516243,112,5,5,https://www.wp.pl/,168,0,0
+1658667786112,1337,HTTP Request,200,OK,Thread Group 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516686,224,5,5,https://www.wp.pl/,56,0,0
+1658667786112,56,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,348,112,5,5,http://www.wp.pl/,56,0,0
+1658667786169,1280,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,516338,112,5,5,https://www.wp.pl/,131,0,0
+1658667787267,1097,HTTP Request,200,OK,Thread Group 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516547,224,5,5,https://www.wp.pl/,148,0,0
+1658667787267,148,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,348,112,5,5,http://www.wp.pl/,148,0,0
+1658667787424,940,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,516199,112,5,5,https://www.wp.pl/,157,0,0
+1658667787283,1203,HTTP Request,200,OK,Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516686,224,5,5,https://www.wp.pl/,133,0,0
+1658667787283,133,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,348,112,5,5,http://www.wp.pl/,133,0,0
+1658667787416,1070,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,516338,112,5,5,https://www.wp.pl/,186,0,0
+1658667785891,2806,HTTP Request,200,OK,Thread Group 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516305,224,5,5,https://www.wp.pl/,184,0,0
+1658667785891,184,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,348,112,5,5,http://www.wp.pl/,184,0,0
+1658667786075,2622,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,515957,112,5,5,https://www.wp.pl/,232,0,0
+1658667787446,1270,HTTP Request,200,OK,Thread Group 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516574,224,5,5,https://www.wp.pl/,48,0,0
+1658667787446,48,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,348,112,5,5,http://www.wp.pl/,48,0,0
+1658667787495,1221,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,516226,112,5,5,https://www.wp.pl/,328,0,0
+1658667787449,1288,HTTP Request,200,OK,Thread Group 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516551,224,5,5,https://www.wp.pl/,56,0,0
+1658667787449,56,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,348,112,5,5,http://www.wp.pl/,56,0,0
+1658667787506,1231,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,516203,112,5,5,https://www.wp.pl/,159,0,0
+1658667788366,1211,HTTP Request,200,OK,Thread Group 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516415,224,5,5,https://www.wp.pl/,136,0,0
+1658667788366,136,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,348,112,5,5,http://www.wp.pl/,136,0,0
+1658667788502,1075,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,516067,112,5,5,https://www.wp.pl/,195,0,0
+1658667788487,2402,HTTP Request,200,OK,Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516633,224,5,5,https://www.wp.pl/,90,0,0
+1658667788487,90,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,348,112,5,5,http://www.wp.pl/,90,0,0
+1658667788577,2312,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,516285,112,5,5,https://www.wp.pl/,260,0,0
+1658667788716,2408,HTTP Request,200,OK,Thread Group 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516718,224,4,4,https://www.wp.pl/,75,0,0
+1658667788716,75,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,348,112,4,4,http://www.wp.pl/,75,0,0
+1658667788791,2333,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,516370,112,4,4,https://www.wp.pl/,794,0,0
+1658667788744,2458,HTTP Request,200,OK,Thread Group 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516444,224,4,4,https://www.wp.pl/,65,0,0
+1658667788744,65,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,348,112,4,4,http://www.wp.pl/,65,0,0
+1658667788809,2393,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,516096,112,4,4,https://www.wp.pl/,887,0,0
+1658667789589,1639,HTTP Request,200,OK,Thread Group 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516534,224,4,4,https://www.wp.pl/,367,0,0
+1658667789589,367,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,348,112,4,4,http://www.wp.pl/,367,0,0
+1658667789956,1272,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,516186,112,4,4,https://www.wp.pl/,587,0,0
+1658667788698,3221,HTTP Request,200,OK,Thread Group 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516575,224,4,4,https://www.wp.pl/,90,0,0
+1658667788698,91,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,348,112,4,4,http://www.wp.pl/,90,0,0
+1658667788789,3130,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,516227,112,4,4,https://www.wp.pl/,896,0,0
+1658667791230,945,HTTP Request,200,OK,Thread Group 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516476,224,4,4,https://www.wp.pl/,48,0,0
+1658667791230,48,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,348,112,4,4,http://www.wp.pl/,48,0,0
+1658667791278,897,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,516128,112,4,4,https://www.wp.pl/,125,0,0
+1658667791136,1328,HTTP Request,200,OK,Thread Group 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516626,224,3,3,https://www.wp.pl/,103,0,0
+1658667791136,103,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,348,112,3,3,http://www.wp.pl/,103,0,0
+1658667791240,1224,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,516278,112,3,3,https://www.wp.pl/,169,0,0
+1658667791202,1324,HTTP Request,200,OK,Thread Group 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516869,224,2,2,https://www.wp.pl/,60,0,0
+1658667791202,60,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,348,112,2,2,http://www.wp.pl/,60,0,0
+1658667791263,1263,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,516521,112,2,2,https://www.wp.pl/,158,0,0
+1658667791919,1399,HTTP Request,200,OK,Thread Group 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516671,224,1,1,https://www.wp.pl/,301,0,0
+1658667791919,301,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,348,112,1,1,http://www.wp.pl/,301,0,0
+1658667792220,1098,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,516323,112,1,1,https://www.wp.pl/,255,0,0
+1658667793319,681,HTTP Request,200,OK,Thread Group 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516386,224,1,1,https://www.wp.pl/,43,0,0
+1658667793319,44,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,348,112,1,1,http://www.wp.pl/,43,0,0
+1658667793363,637,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,516038,112,1,1,https://www.wp.pl/,163,0,0
+1658667794001,663,HTTP Request,200,OK,Thread Group 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516643,224,1,1,https://www.wp.pl/,41,0,0
+1658667794001,41,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,348,112,1,1,http://www.wp.pl/,41,0,0
+1658667794042,622,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,516295,112,1,1,https://www.wp.pl/,236,0,0
+1658667794664,566,HTTP Request,200,OK,Thread Group 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516839,224,1,1,https://www.wp.pl/,43,0,0
+1658667794664,43,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,348,112,1,1,http://www.wp.pl/,43,0,0
+1658667794707,523,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,516491,112,1,1,https://www.wp.pl/,297,0,0
+1658667795230,538,HTTP Request,200,OK,Thread Group 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[2]]]00
+
+****** comparison: [[[1]]]00
+
+/",516613,224,1,1,https://www.wp.pl/,52,0,0
+1658667795230,52,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,348,112,1,1,http://www.wp.pl/,52,0,0
+1658667795283,485,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,516265,112,1,1,https://www.wp.pl/,157,0,0
